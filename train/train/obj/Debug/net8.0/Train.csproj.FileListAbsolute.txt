@@ -1,0 +1,42 @@
+C:\Users\lap.lk\source\repos\Train\Train\bin\Debug\net8.0\Train.exe
+C:\Users\lap.lk\source\repos\Train\Train\bin\Debug\net8.0\Train.deps.json
+C:\Users\lap.lk\source\repos\Train\Train\bin\Debug\net8.0\Train.runtimeconfig.json
+C:\Users\lap.lk\source\repos\Train\Train\bin\Debug\net8.0\Train.dll
+C:\Users\lap.lk\source\repos\Train\Train\bin\Debug\net8.0\Train.pdb
+C:\Users\lap.lk\source\repos\Train\Train\obj\Debug\net8.0\Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lap.lk\source\repos\Train\Train\obj\Debug\net8.0\Train.AssemblyInfoInputs.cache
+C:\Users\lap.lk\source\repos\Train\Train\obj\Debug\net8.0\Train.AssemblyInfo.cs
+C:\Users\lap.lk\source\repos\Train\Train\obj\Debug\net8.0\Train.csproj.CoreCompileInputs.cache
+C:\Users\lap.lk\source\repos\Train\Train\obj\Debug\net8.0\Train.dll
+C:\Users\lap.lk\source\repos\Train\Train\obj\Debug\net8.0\refint\Train.dll
+C:\Users\lap.lk\source\repos\Train\Train\obj\Debug\net8.0\Train.pdb
+C:\Users\lap.lk\source\repos\Train\Train\obj\Debug\net8.0\Train.genruntimeconfig.cache
+C:\Users\lap.lk\source\repos\Train\Train\obj\Debug\net8.0\ref\Train.dll
+C:\Users\lap.lk\Desktop\train\Train\bin\Debug\net8.0\Train.exe
+C:\Users\lap.lk\Desktop\train\Train\bin\Debug\net8.0\Train.deps.json
+C:\Users\lap.lk\Desktop\train\Train\bin\Debug\net8.0\Train.runtimeconfig.json
+C:\Users\lap.lk\Desktop\train\Train\bin\Debug\net8.0\Train.dll
+C:\Users\lap.lk\Desktop\train\Train\bin\Debug\net8.0\Train.pdb
+C:\Users\lap.lk\Desktop\train\Train\obj\Debug\net8.0\Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lap.lk\Desktop\train\Train\obj\Debug\net8.0\Train.AssemblyInfoInputs.cache
+C:\Users\lap.lk\Desktop\train\Train\obj\Debug\net8.0\Train.AssemblyInfo.cs
+C:\Users\lap.lk\Desktop\train\Train\obj\Debug\net8.0\Train.csproj.CoreCompileInputs.cache
+C:\Users\lap.lk\Desktop\train\Train\obj\Debug\net8.0\Train.dll
+C:\Users\lap.lk\Desktop\train\Train\obj\Debug\net8.0\refint\Train.dll
+C:\Users\lap.lk\Desktop\train\Train\obj\Debug\net8.0\Train.pdb
+C:\Users\lap.lk\Desktop\train\Train\obj\Debug\net8.0\Train.genruntimeconfig.cache
+C:\Users\lap.lk\Desktop\train\Train\obj\Debug\net8.0\ref\Train.dll
+C:\Users\lap.lk\Desktop\DSA project\train\Train\bin\Debug\net8.0\Train.exe
+C:\Users\lap.lk\Desktop\DSA project\train\Train\bin\Debug\net8.0\Train.deps.json
+C:\Users\lap.lk\Desktop\DSA project\train\Train\bin\Debug\net8.0\Train.runtimeconfig.json
+C:\Users\lap.lk\Desktop\DSA project\train\Train\bin\Debug\net8.0\Train.dll
+C:\Users\lap.lk\Desktop\DSA project\train\Train\bin\Debug\net8.0\Train.pdb
+C:\Users\lap.lk\Desktop\DSA project\train\Train\obj\Debug\net8.0\Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lap.lk\Desktop\DSA project\train\Train\obj\Debug\net8.0\Train.AssemblyInfoInputs.cache
+C:\Users\lap.lk\Desktop\DSA project\train\Train\obj\Debug\net8.0\Train.AssemblyInfo.cs
+C:\Users\lap.lk\Desktop\DSA project\train\Train\obj\Debug\net8.0\Train.csproj.CoreCompileInputs.cache
+C:\Users\lap.lk\Desktop\DSA project\train\Train\obj\Debug\net8.0\Train.dll
+C:\Users\lap.lk\Desktop\DSA project\train\Train\obj\Debug\net8.0\refint\Train.dll
+C:\Users\lap.lk\Desktop\DSA project\train\Train\obj\Debug\net8.0\Train.pdb
+C:\Users\lap.lk\Desktop\DSA project\train\Train\obj\Debug\net8.0\Train.genruntimeconfig.cache
+C:\Users\lap.lk\Desktop\DSA project\train\Train\obj\Debug\net8.0\ref\Train.dll
